@@ -132,7 +132,7 @@ hr {
 }
 @media (max-width: 720px) {
 	body {
-		font-size: 1.8em;
+		font-size: 18px;
 	}
 	main {
 		padding: 1em;
