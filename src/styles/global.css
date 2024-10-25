@@ -32,9 +32,8 @@
 body {
     font-family: 'Atkinson', sans-serif;
     margin: 0;
+    padding: 0;
     text-align: left;
-	padding: 1em; /* Ensure padding doesn't cause overflow */
-    width: 100%; /* Use full width */
     
     /* Add noise texture and gradient */
     background: linear-gradient(var(--gray-gradient)), url('/images/noise.png');
