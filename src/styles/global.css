@@ -165,3 +165,7 @@ hr {
     clip-path: inset(50%);
     white-space: nowrap;
 }
+
+html, body {
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+}
