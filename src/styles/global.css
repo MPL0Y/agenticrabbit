@@ -34,11 +34,6 @@ body {
     margin: 0;
     padding: 0;
     text-align: left;
-
-    /* Add noise texture and gradient */
-    background: linear-gradient(var(--gray-gradient)), url('/images/noise.png');
-    background-size: cover, auto;
-
     word-wrap: break-word;
     overflow-wrap: break-word;
     color: rgb(var(--gray-dark));
