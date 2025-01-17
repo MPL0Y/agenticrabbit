@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Hardik',
-    subtitle: '',
+    subtitle: 'a.k.a Agentic Rabbit',
     description: 'This is the personal blog of Hardik',
     image: {
         src: '/dante-preview.jpg',
@@ -51,8 +51,8 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
-            text: 'Projects',
-            href: '/projects'
+            text: 'Art',
+            href: '/art'
         },
         {
             text: 'Blog',
@@ -97,9 +97,9 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: '',
-        text: "If you don't commit to anything, you're distracted by everything.",
+        text: "If you don't commit to anything, you're distracted by everything. -- {Bhagvad Gita 2:41}",
         image: {
-            src: '/hero.jpg',
+            src: '/hero.jpeg',
             alt: 'A person standing on a podium holding a microphone.'
         },
         actions: [
