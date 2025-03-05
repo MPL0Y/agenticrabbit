@@ -83,16 +83,16 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'WhatsApp',
+            href: 'https://api.whatsapp.com/send?text=Hi&phone=9205520499'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/hardikksharmaaa/'
         },
         {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'Telegram',
+            href: 'https://telegram.me/hardikksharmaaa'
         }
     ],
     hero: {
@@ -100,11 +100,11 @@ const siteConfig: SiteConfig = {
         text: "If you don't commit to anything, you're distracted by everything. -- {Bhagvad Gita 2:41}",
         image: {
             src: '/hero.jpeg',
-            alt: 'A person standing on a podium holding a microphone.'
+            alt: 'A person standing in front of Parvati river in Kasol, Himachal Pradesh, India.'
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: 'Let\'s talk',
                 href: '/contact'
             }
         ]

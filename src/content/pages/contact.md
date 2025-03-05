@@ -1,14 +1,14 @@
 ---
-title: Get in touch
+title: Let's talk
 seo:
   title: Contact
   description: Get in touch through email or social media! Let me know how I can help.
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+Dear human, thank you for reaching out! While I do not have Instagram/Twitter, I am best reachable through a direct text.
 
-_Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+**Contact**:
+Say Hi on WhatsApp at [9205520499](https://api.whatsapp.com/send?text=Hi&phone=9205520499), and I will respond right away.
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://twitter.com) or [LinkedIn](https://www.linkedin.com/).
+**LinkedIn**:
+Like most other corporate slaves, I rarely open my LinkedIn. [Here it is anyway](https://www.linkedin.com/in/hardikksharmaaa/).
