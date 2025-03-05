@@ -84,7 +84,7 @@ const siteConfig: SiteConfig = {
     socialLinks: [
         {
             text: 'WhatsApp',
-            href: 'https://api.whatsapp.com/send?text=Hi&phone=9205520499'
+            href: 'https://api.whatsapp.com/send?text=Hi&phone=919205520499'
         },
         {
             text: 'LinkedIn',
