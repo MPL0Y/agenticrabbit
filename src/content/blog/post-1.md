@@ -1,6 +1,6 @@
 ---
 title: On love, from Kasol
-excerpt: TBU
+excerpt: I went to Kasol last month.
 publishDate: 'Mar 9 2025'
 tags:
   - Love
