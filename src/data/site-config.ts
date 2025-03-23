@@ -42,7 +42,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'a.k.a Agentic Rabbit',
     description: 'This is the personal blog of Hardik',
     image: {
-        src: '/dante-preview.jpg',
+        src: '/agentic-rabbit-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
     },
     headerNavLinks: [

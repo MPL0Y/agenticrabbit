@@ -1,6 +1,7 @@
 # TODO
 - [x] Setup portfolio with posting functionality
 - [ ] Delete existing theme-related data
+- [ ] Update src/content/pages/about.md and terms.md
 - [ ] Improve structure of portfolio
 - [ ] Add all-time-fav books
 - [ ] Add all-time-fav movies
