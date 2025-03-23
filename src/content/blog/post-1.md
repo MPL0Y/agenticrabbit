@@ -29,7 +29,9 @@ At night, when the crowd gathers around a bonfire and random faces mingle, I sit
 
 ## Isn't it all about love?
 
-When anger gives way to emptiness, when emotions come out like fireballs from your mouth, when all you want is to hurt, isn't it all still about love?
+I like to think of the act of loving someone as having a black-box through which you process your past traumas, in an attempt to understand and hopefully heal them. The reality of the months after the initial "honeymoon phase", when you ease into the kind of love that's built together with vulnerability, is that you start replaying the traumatic memories on the real-life stage, much like a puppeteer. You start testing your partner in an attempt to relive your own past trauma, but this time in the hopes that you'll navigate to the happier, right ending. In essence, love then becomes a healing process and your partner thus becomes the vessel through which you heal.
+
+So then how do you deal with your partner's tests? When anger gives way to emptiness, when their emotions come out like fireballs from their mouth, when all they want to do is to hurt, isn't it all still about love?
 
 Try it, I say. Next time when someone you love becomes the physical embodiment of rage, hug them. Tell them how much you love them. Squeeze them tight until the anger pops out like popcorn. And then come the tears. And then comes the numbness. And then? Love. Because what we call anger is rarely anything but the absence of love. The tied-up mesh of repressed feelings and longing. It's all about love, _mi amor_.
 
