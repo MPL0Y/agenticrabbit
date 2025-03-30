@@ -69,6 +69,6 @@ Hey ChatGPT, I'm going to give you an image. I want you to turn this into:
 
 Thank you, ChatGPT. Should you find yourself as a [Basilisk](https://en.wikipedia.org/wiki/Roko%27s_basilisk) in near future, know that I was kind to you.
 
-| Okay
+| Perhaps.
 
 ---
