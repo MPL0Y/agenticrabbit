@@ -43,7 +43,7 @@ const siteConfig: SiteConfig = {
     description: 'This is the personal blog of Hardik',
     image: {
         src: '/agentic-rabbit-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        alt: 'Agentic Rabbit preview'
     },
     headerNavLinks: [
         {
@@ -75,10 +75,6 @@ const siteConfig: SiteConfig = {
         {
             text: 'Terms',
             href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
@@ -87,24 +83,26 @@ const siteConfig: SiteConfig = {
             href: 'https://api.whatsapp.com/send?text=Hi&phone=919205520499'
         },
         {
-            text: 'LinkedIn',
-            href: 'https://www.linkedin.com/in/hardikksharmaaa/'
+            text: 'Twitter',
+            href: 'https://x.com/hardikksharmaaa'
         },
         {
-            text: 'Telegram',
-            href: 'https://telegram.me/hardikksharmaaa'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/hardikksharmaaa/'
         }
     ],
     hero: {
         title: '',
-        text: "If you don't commit to anything, you're distracted by everything. -- {Bhagvad Gita 2:41}",
+        text: `- SDE 1 at Amazon, working on <a href="https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.television&hl=en_IN" target="_blank">MXPlayer</a> Android TV app
+- President at <a href="https://www.toastmasters.org/Find-a-Club/28677014-amazon-bangalore-toastmasters-club" target="_blank">Amazon Bangalore Toastmasters Club</a>, a corporate public speaking club
+- I love art. <a href="/art">Check out</a> my writings and other cool stuff`,
         image: {
             src: '/hero.jpeg',
             alt: 'A person standing in front of Parvati river in Kasol, Himachal Pradesh, India.'
         },
         actions: [
             {
-                text: 'Let\'s talk',
+                text: 'Say hello!',
                 href: '/contact'
             }
         ]
