@@ -35,7 +35,7 @@ const pages = defineCollection({
 });
 
 const projects = defineCollection({
-    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/projects' }),
+    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/art' }),
     schema: z.object({
         title: z.string(),
         description: z.string().optional(),

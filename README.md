@@ -1,12 +1,9 @@
 # TODO
 - [x] Setup portfolio with posting functionality
+- [ ] Improve image loading latency (setup different images for mobile/web view)
+- [ ] Add trigger-warning popup for art posts wherever required
 - [ ] Delete existing theme-related data
 - [ ] Update src/content/pages/about.md and terms.md
-- [ ] Improve structure of portfolio
-- [ ] Add all-time-fav books
-- [ ] Add all-time-fav movies
-- [ ] Add all-time-fav shows
-- [ ] Add all-time-fav texts
 
 # How to clone and run
 1. Install supported nvm (>=18.17.1)

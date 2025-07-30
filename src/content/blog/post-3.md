@@ -6,7 +6,7 @@ tags:
   - AI
   - Image-Generation
   - ChatGPT
-isFeatured: true
+isFeatured: false
 seo:
   image:
     src: '/hero.jpeg'

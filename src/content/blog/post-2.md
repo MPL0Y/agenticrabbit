@@ -7,7 +7,7 @@ tags:
   - Maxims
   - Energy
   - Universe
-isFeatured: true
+isFeatured: false
 seo:
   image:
     src: '/post-2.jpg'
