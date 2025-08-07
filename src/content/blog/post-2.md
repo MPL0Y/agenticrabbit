@@ -1,5 +1,5 @@
 ---
-title: Useless maxims, from Bangalore
+title: Useless maxims, from Shimla
 excerpt: ...
 publishDate: 'Mar 16 2025'
 tags:

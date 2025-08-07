@@ -93,9 +93,10 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: '',
-        text: `- SDE 1 at Amazon, working on <a href="https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.television&hl=en_IN" target="_blank">MXPlayer</a> Android TV app
+        text: `- SDE 1 at Amazon, building <a href="https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.television&hl=en_IN" target="_blank">MXPlayer</a> Android TV app
 - President at <a href="https://www.toastmasters.org/Find-a-Club/28677014-amazon-bangalore-toastmasters-club" target="_blank">Amazon Bangalore Toastmasters Club</a>, a corporate public speaking club
-- I love art. <a href="/art">Check out</a> my writings and other cool stuff`,
+- I love art. <a href="/art">Check out</a> my writings and other cool stuff
+- Here is Richard Feynman on life — "<i>Fall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Work as hard and as much as you want to on the things you like to do the best. Don't think about what you want to be, but what you want to do. Keep up some kind of a minimum with other things so that society doesn't stop you from doing anything at all.</i>"`,
         image: {
             src: '/hero.jpeg',
             alt: 'A person standing in front of Parvati river in Kasol, Himachal Pradesh, India.'

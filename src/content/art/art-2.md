@@ -1,7 +1,7 @@
 ---
 title: Edge of Tomorrow
 excerpt: ...don’t tell me it’s different this time, I’ve written our book and I know how it ends...
-publishDate: 'Jul 30 2025'
+publishDate: 'Aug 07 2025'
 tags:
   - Art
   - Writing
@@ -12,15 +12,13 @@ seo:
     alt: No image
 ---
 
-I want to slice my tongue off. It speaks of nothing but this woman. In conversations with friends when asked about my favourite movies, I take her name, and then proceed to laugh it off, asking what the question was again. In reality, I just need a reason to take her name.
+Edge of Tomorrow was a 2014 film starring Tom Cruise and Emily Blunt. The story is about a soldier Private Cage who finds himself stuck in a time loop which he can escape only after defeating the Omega. No matter what he does, he ends up dying again and again, only to relive it all continuously. No one believes him, since he’s the only person stuck in the loop.
 
-Peel my skin off where she's touched me and I'd still be more of herself than I am of myself. My bones know the touch of her fingers and my teeth know the poison of her kiss. Even in ruins, my rib cage rattles and calls out her name.
+Last night, I realised how it’s the same with me—I’m stuck in the loop you’ve created for us. It begins when you come back and it ends when you leave. I wait for you in July, I welcome you with open arms in September, and you start packing your stuff in November. So don’t tell me it’s different this time, I’ve written our book and I know how it ends. I have flipped through the pages a million times, but no matter how hard or how gentle I run my fingers through the pages, you still leave in the end. So spare me the agony and just run the blade across my neck, slashing all my veins and severing all ties between us, like you did in the last iteration of our loop.
 
-Over the years, our memories became inscribed on the veins beneath my tongue and her name found its way inside the cracks of my teeth. I remember wanting to bleed her out of me, but now everything I say is laced with the flame of her breath, and before you tell me a love story, I've already imagined me and her in it. 
+At the end of the movie, Cage meets Vrataski but she doesn’t recognise him at all, and he laughs—he was the only one stuck in the loop.
 
-I remember wanting to take revenge on her. Wanting to let everyone know how delicately she ruined me. But before leaving, she put me in a straitjacket made from her white dresses and sealed my lips with the wax of her red candles. 
-
-And besides, who listens to a broken man?
+I hope that one day I get out of this loop and you forget me forever.
 
 …
 
