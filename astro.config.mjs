@@ -12,5 +12,10 @@ export default defineConfig({
         tailwind({
             applyBaseStyles: false
         })
-    ]
+    ],
+    redirects: {
+        'resume': '/public/Hardik_Sharma_Resume.pdf',
+        'kasol': '/blog/post-1.md',
+        'maxims': '/blog/post-2.md'
+    }
 });
