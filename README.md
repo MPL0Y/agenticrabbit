@@ -1,8 +1,8 @@
 # TODO
 - [x] Setup portfolio with posting functionality
-- [ ] Improve image loading latency (setup different images for mobile/web view)
-- [ ] Add redirects for art posts
 - [x] Add redirects for blog posts
+- [ ] Add redirects for art posts
+- [ ] Improve image loading latency (setup different images for mobile/web view)
 - [ ] Add trigger-warning popup for art posts wherever required
 - [ ] Delete existing theme-related data
 - [ ] Update src/content/pages/about.md and terms.md

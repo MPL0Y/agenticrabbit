@@ -3,9 +3,8 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import tailwind from '@astrojs/tailwind';
 
-// https://astro.build/config
 export default defineConfig({
-    site: 'https://example.com',
+    site: 'https://agenticrabbit.com',
     integrations: [
         mdx(),
         sitemap(),
@@ -14,8 +13,8 @@ export default defineConfig({
         })
     ],
     redirects: {
-        'resume': '/public/Hardik_Sharma_Resume.pdf',
-        'kasol': '/blog/post-1.md',
-        'maxims': '/blog/post-2.md'
+        'kasol': '/blog/post-1',
+        'maxims': '/blog/post-2',
+        'image-gen': '/blog/post-3'
     }
 });
