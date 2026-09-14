@@ -9,8 +9,7 @@ const seoSchema = z.object({
             src: z.string(),
             alt: z.string().optional()
         })
-        .optional(),
-    pageType: z.enum(['website', 'article']).default('website')
+        .optional()
 });
 
 const blog = defineCollection({

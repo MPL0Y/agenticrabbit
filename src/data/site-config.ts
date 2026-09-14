@@ -16,14 +16,7 @@ export type Hero = {
     actions?: Link[];
 };
 
-export type Subscribe = {
-    title?: string;
-    text?: string;
-    formUrl: string;
-};
-
 export type SiteConfig = {
-    logo?: Image;
     title: string;
     subtitle?: string;
     description: string;
@@ -32,7 +25,6 @@ export type SiteConfig = {
     footerNavLinks?: Link[];
     socialLinks?: Link[];
     hero?: Hero;
-    subscribe?: Subscribe;
     postsPerPage?: number;
     projectsPerPage?: number;
 };
@@ -93,10 +85,12 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: '',
-        text: `- SDE 1 at Amazon, building <a href="https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.television&hl=en_IN" target="_blank">MXPlayer</a> Android TV app
-- President at <a href="https://www.toastmasters.org/Find-a-Club/28677014-amazon-bangalore-toastmasters-club" target="_blank">Amazon Bangalore Toastmasters Club</a>, a corporate public speaking club
-- I love art. <a href="/art">Check out</a> my writings and other cool stuff
-- Here is Richard Feynman on life — "<i>Fall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Work as hard and as much as you want to on the things you like to do the best. Don't think about what you want to be, but what you want to do. Keep up some kind of a minimum with other things so that society doesn't stop you from doing anything at all.</i>"`,
+        text: `<ul>
+<li>SDE 1 at Amazon, building <a href="https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.television&hl=en_IN" target="_blank">MXPlayer</a> Android TV app</li>
+<li>President at <a href="https://www.toastmasters.org/Find-a-Club/28677014-amazon-bangalore-toastmasters-club" target="_blank">Amazon Bangalore Toastmasters Club</a>, a corporate public speaking club</li>
+<li>I love art. <a href="/art">Check out</a> my writings and other cool stuff</li>
+<li>Here is Richard Feynman on life — "<i>Fall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Work as hard and as much as you want to on the things you like to do the best. Don't think about what you want to be, but what you want to do. Keep up some kind of a minimum with other things so that society doesn't stop you from doing anything at all.</i>"</li>
+</ul>`,
         image: {
             src: '/hero.jpeg',
             alt: 'A person standing in front of Parvati river in Kasol, Himachal Pradesh, India.'
@@ -107,11 +101,6 @@ const siteConfig: SiteConfig = {
                 href: '/contact'
             }
         ]
-    },
-    subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
     },
     postsPerPage: 8,
     projectsPerPage: 8

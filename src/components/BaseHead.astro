@@ -19,21 +19,7 @@ const resolvedImage = image?.src
           alt: image.alt
       }
     : undefined;
-const canonicalURL = new URL(Astro.request.url, Astro.site);
-
-/**
- * Enforce some standard canonical URL formatting across the site.
- */
-function formatCanonicalURL(url: string | URL) {
-    const path = url.toString();
-    const hasQueryParams = path.includes('?');
-    // If there are query params, make sure the URL has no trailing slash
-    if (hasQueryParams) {
-        path.replace(/\/?$/, '');
-    }
-    // otherwise, canonical URL always has a trailing slash
-    return path.replace(/\/?$/, hasQueryParams ? '' : '/');
-}
+const canonicalURL = new URL(Astro.request.url, Astro.site).href.replace(/\/?$/, '/');
 ---
 
 <!-- High Priority Global Metadata -->
@@ -52,12 +38,12 @@ function formatCanonicalURL(url: string | URL) {
 <link rel="alternate" type="application/rss+xml" href="/rss.xml" title="RSS" />
 
 <!-- Page Metadata -->
-<link rel="canonical" href={formatCanonicalURL(canonicalURL)} />
+<link rel="canonical" href={canonicalURL} />
 <meta name="description" content={description} />
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content={pageType} />
-<meta property="og:url" content={formatCanonicalURL(canonicalURL)} />
+<meta property="og:url" content={canonicalURL} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 {resolvedImage?.src && <meta property="og:image" content={resolvedImage.src} />}
@@ -65,7 +51,7 @@ function formatCanonicalURL(url: string | URL) {
 
 <!-- X/Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content={formatCanonicalURL(canonicalURL)} />
+<meta property="twitter:url" content={canonicalURL} />
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 {resolvedImage?.src && <meta property="twitter:image" content={resolvedImage.src} />}

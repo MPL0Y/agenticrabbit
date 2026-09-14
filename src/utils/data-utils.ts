@@ -6,17 +6,8 @@ export function sortItemsByDateDesc(itemA: CollectionEntry<'blog' | 'projects'>,
 }
 
 export function getAllTags(posts: CollectionEntry<'blog'>[]) {
-    const tags: string[] = [...new Set(posts.flatMap((post) => post.data.tags || []).filter(Boolean))];
-    return tags
-        .map((tag) => {
-            return {
-                name: tag,
-                id: slugify(tag)
-            };
-        })
-        .filter((obj, pos, arr) => {
-            return arr.map((mapObj) => mapObj.id).indexOf(obj.id) === pos;
-        });
+    const tags = posts.flatMap((post) => post.data.tags || []).filter(Boolean);
+    return [...new Map(tags.map((tag) => [slugify(tag), { name: tag, id: slugify(tag) }])).values()];
 }
 
 export function getPostsByTag(posts: CollectionEntry<'blog'>[], tagId: string) {

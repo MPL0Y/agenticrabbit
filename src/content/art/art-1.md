@@ -1,10 +1,7 @@
 ---
 title: I would like to slice my tongue off
-excerpt: I would like to slice my tongue off. It speaks of nothing but this woman...
+description: I would like to slice my tongue off. It speaks of nothing but this woman...
 publishDate: 'Jul 30 2025'
-tags:
-  - Art
-  - Writing
 isFeatured: true
 seo:
   image:

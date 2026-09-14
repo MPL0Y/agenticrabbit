@@ -1,10 +1,7 @@
 ---
 title: Edge of Tomorrow
-excerpt: ...don’t tell me it’s different this time, I’ve written our book and I know how it ends...
+description: ...don’t tell me it’s different this time, I’ve written our book and I know how it ends...
 publishDate: 'Aug 07 2025'
-tags:
-  - Art
-  - Writing
 isFeatured: true
 seo:
   image:
