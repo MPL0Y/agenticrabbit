@@ -35,8 +35,12 @@ nav {
   gap: 1.25rem;
   font-size: 0.8125rem;
 }
+.row {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
 .heart {
-  margin-top: 1.5rem;
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
